@@ -1,2 +1,2 @@
-# smart-contract-tutorial-
-smart contracts tutorial 
+# smart-contract-tutorial
+smart contract tutorial 

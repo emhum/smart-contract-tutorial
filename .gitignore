@@ -126,5 +126,6 @@ typechain-types
 cache
 artifacts
 
+forge-cache
 
 package-lock.json
